@@ -1,0 +1,2 @@
+# CofC
+Code of Conduct
